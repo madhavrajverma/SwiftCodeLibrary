@@ -1,4 +1,4 @@
 # SwiftCodeLibrary
 
 
-1- [Protocol](protocol/protocol1.md)
+1- [Protocols](protocol/protocol1.md)
